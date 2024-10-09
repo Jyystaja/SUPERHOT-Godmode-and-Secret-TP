@@ -1,0 +1,16 @@
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\obj\Debug\net35\MyMelonMod.csproj.AssemblyReference.cache
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\obj\Debug\net35\MyMelonMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\obj\Debug\net35\MyMelonMod.AssemblyInfoInputs.cache
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\obj\Debug\net35\MyMelonMod.AssemblyInfo.cs
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\obj\Debug\net35\MyMelonMod.csproj.CoreCompileInputs.cache
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\bin\net35\net35\MyMelonMod.dll
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\bin\net35\net35\MyMelonMod.pdb
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\bin\net35\net35\MelonLoader.dll
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\bin\net35\net35\UnityEngine.CoreModule.dll
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\bin\net35\net35\UnityEngine.dll
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\bin\net35\net35\UnityEngine.IMGUIModule.dll
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\bin\net35\net35\UnityEngine.InputLegacyModule.dll
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\bin\net35\net35\UnityEngine.InputModule.dll
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\obj\Debug\net35\MyMelonMod.csproj.Up2Date
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\obj\Debug\net35\MyMelonMod.dll
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\obj\Debug\net35\MyMelonMod.pdb

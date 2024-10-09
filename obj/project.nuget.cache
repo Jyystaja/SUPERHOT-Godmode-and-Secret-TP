@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R2wHTcgvd161bXdST9Zs8H6QK1suxSB0nf4E2VR/zp+IKgodGIlU1ZutnIDaix05+GzkTDdmSj5rDwDqMVoREw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iisak\\Desktop\\superhot mod\\MyMelonMod\\MyMelonMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iisak\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Iisak\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.3\\microsoft.netframework.referenceassemblies.net46.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

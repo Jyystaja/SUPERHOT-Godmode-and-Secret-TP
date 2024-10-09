@@ -1,0 +1,5 @@
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\obj\Debug\net2.0\MyMelonMod.csproj.AssemblyReference.cache
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\obj\Debug\net2.0\MyMelonMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\obj\Debug\net2.0\MyMelonMod.AssemblyInfoInputs.cache
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\obj\Debug\net2.0\MyMelonMod.AssemblyInfo.cs
+C:\Users\Iisak\Desktop\superhot mod\MyMelonMod\obj\Debug\net2.0\MyMelonMod.csproj.CoreCompileInputs.cache
